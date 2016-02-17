@@ -1,3 +1,3 @@
-# Simple mini akka scala seed 
+# Simple Todo REST service
 
-A simple akka scala seed template include some build configs.
+spray + akka + cassandra 
